@@ -1,0 +1,202 @@
+{
+    "United States": {
+        "code": "US",
+        "slug": "united-states"
+    },
+    "China": {
+        "code": "CN",
+        "slug": "china-global-firms"
+    },
+    "Greece": {
+        "code": "GR",
+        "slug": "greece"
+    },
+    "Luxembourg": {
+        "code": "LU",
+        "slug": "luxembourg"
+    },
+    "Portugal": {
+        "code": "PT",
+        "slug": "portugal"
+    },
+    "Turkey": {
+        "code": "TR",
+        "slug": "turkey"
+    },
+    "Argentina": {
+        "code": "AR",
+        "slug": "argentina"
+    },
+    "Colombia": {
+        "code": "CO",
+        "slug": "colombia"
+    },
+    "Guatemala": {
+        "code": "GT",
+        "slug": "guatemala"
+    },
+    "Mexico": {
+        "code": "MX",
+        "slug": "mexico"
+    },
+    "Puerto Rico": {
+        "code": "PR",
+        "slug": "puerto-rico"
+    },
+    "Ukraine": {
+        "code": "UA",
+        "slug": "ukraine"
+    },
+    "Australia": {
+        "code": "AU",
+        "slug": "australia"
+    },
+    "Cyprus": {
+        "code": "CY",
+        "slug": "cyprus"
+    },
+    "Hungary": {
+        "code": "HU",
+        "slug": "hungary"
+    },
+    "Moldova": {
+        "code": "MD",
+        "slug": "moldova"
+    },
+    "Singapore": {
+        "code": "SG",
+        "slug": "singapore"
+    },
+    "United Arab Emirates": {
+        "code": "AE",
+        "slug": "united-arab-emirates"
+    },
+    "Austria": {
+        "code": "AT",
+        "slug": "austria"
+    },
+    "Czech Republic": {
+        "code": "CZ",
+        "slug": "czech-republic"
+    },
+    "Italy": {
+        "code": "IT",
+        "slug": "italy"
+    },
+    "Netherlands": {
+        "code": "NL",
+        "slug": "netherlands"
+    },
+    "Slovakia": {
+        "code": "SK",
+        "slug": "slovakia"
+    },
+    "United Kingdom": {
+        "code": "GB",
+        "slug": "united-kingdom"
+    },
+    "Bahrain": {
+        "code": "BH",
+        "slug": "bahrain"
+    },
+    "Denmark": {
+        "code": "DK",
+        "slug": "denmark"
+    },
+    "Japan": {
+        "code": "JP",
+        "slug": "japan"
+    },
+    "New Zealand": {
+        "code": "NZ",
+        "slug": "new-zealand"
+    },
+    "South Africa": {
+        "code": "ZA",
+        "slug": "south-africa"
+    },
+    "Venezuela": {
+        "code": "VE",
+        "slug": "venezuela"
+    },
+    "Belgium": {
+        "code": "BE",
+        "slug": "belgium"
+    },
+    "Estonia": {
+        "code": "EE",
+        "slug": "estonia"
+    },
+    "Kenya": {
+        "code": "KE",
+        "slug": "kenya"
+    },
+    "Nicaragua": {
+        "code": "NI",
+        "slug": "nicaragua"
+    },
+    "South Korea": {
+        "code": "KR",
+        "slug": "south-korea"
+    },
+    "Brazil": {
+        "code": "BR",
+        "slug": "brazil"
+    },
+    "Finland": {
+        "code": "FI",
+        "slug": "finland"
+    },
+    "Kuwait": {
+        "code": "KW",
+        "slug": "kuwait"
+    },
+    "Norway": {
+        "code": "NO",
+        "slug": "norway"
+    },
+    "Spain": {
+        "code": "ES",
+        "slug": "spain"
+    },
+    "Canada": {
+        "code": "CA",
+        "slug": "canada"
+    },
+    "France": {
+        "code": "FR",
+        "slug": "france"
+    },
+    "Latvia": {
+        "code": "LV",
+        "slug": "latvia"
+    },
+    "Peru": {
+        "code": "PE",
+        "slug": "peru"
+    },
+    "Sweden": {
+        "code": "SE",
+        "slug": "sweden"
+    },
+    "Chile": {
+        "code": "CL",
+        "slug": "chile"
+    },
+    "Germany": {
+        "code": "DE",
+        "slug": "germany"
+    },
+    "Lithuania": {
+        "code": "LT",
+        "slug": "lithuania"
+    },
+    "Poland": {
+        "code": "PL",
+        "slug": "poland"
+    },
+    "Switzerland": {
+        "code": "CH",
+        "slug": "switzerland"
+    }
+}

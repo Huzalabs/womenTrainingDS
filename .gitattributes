@@ -1,0 +1,6 @@
+Sleep filter=lfs diff=lfs merge=lfs -text
+Disorder filter=lfs diff=lfs merge=lfs -text
+Prediction/Sleep_health_and_lifestyle_dataset.csv filter=lfs diff=lfs merge=lfs -text
+Assignments/Netflix filter=lfs diff=lfs merge=lfs -text
+Assignment/netflix_titles.csv filter=lfs diff=lfs merge=lfs -text
+Capstones/Hence.zip filter=lfs diff=lfs merge=lfs -text
